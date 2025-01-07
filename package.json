@@ -7,7 +7,6 @@
   "scripts": {
     "start": "node readmeUpdate.js"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",

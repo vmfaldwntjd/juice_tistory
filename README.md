@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
+## Welcome Juice's study space✍🏼
 
 ## 언어
 

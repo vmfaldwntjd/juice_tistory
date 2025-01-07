@@ -31,7 +31,7 @@ const parser = new Parser({
 
 (async () => {
   // 피드 목록
-  const feed = await parser.parseURL("https://devjuice.tistory.com/rss"); #본인 rss 주소
+  const feed = await parser.parseURL("https://devjuice.tistory.com/rss");
 
   // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
   for (let i = 0; i < 5; i++) {

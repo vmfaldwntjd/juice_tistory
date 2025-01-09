@@ -10,7 +10,7 @@
 </p> -->
 
 ## Contact me
-email: jinjs6@gmail.com
+Email: jinjs6@gmail.com
 
 ## 📕 Latest Blog Posts
 

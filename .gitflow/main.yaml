@@ -24,8 +24,14 @@ jobs:
         run: npm start
       - name: Commit README
         run: |
-          git add .
           git config --local user.email "jinjs6@gmail.com" #본인주소
           git config --local user.name "core" #본인주소
-          git commit -m "Update README.md"
-          git push
+          if [ -n "${git status --porcelain}" ]; then
+            git add .
+            git commit -m 'Update README with latest blog posts'
+            git push
+          else
+            echo "NO changes to commit"
+          fi
+        env:
+          JS_PERSONAL_TOKEN: ${{ secrets.JS_PERSONAL_TOKEN }}

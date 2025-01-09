@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --local user.email "jinjs6@gmail.com"
           git config --local user.name "core"
-          if [ -n "${git status --porcelain}" ]; then
+          if [ -n "$(git status --porcelain)" ]; then
             git add .
             git commit -m 'Update README with latest blog posts'
             git push

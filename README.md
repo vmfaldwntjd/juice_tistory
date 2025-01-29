@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://devjuice.tistory.com/84>[프로그래머스/Java] [Kakao 블라인드 기출] 표 병합</a></br><a href=https://devjuice.tistory.com/83>[프로그래머스/Java] 77886. 110 옮기기</a></br><a href=https://devjuice.tistory.com/82>[백준/Java] 13549 숨바꼭질 3</a></br><a href=https://devjuice.tistory.com/81>[백준/Java] 24955 숫자 이어 붙이기</a></br><a href=https://devjuice.tistory.com/80>[프로그래머스/Java] [2022 카카오 인턴십 기출문제] 등산코스 정하기</a></br>
+<a href=https://devjuice.tistory.com/85>[백준/Java] 1038. 감소하는 수</a></br><a href=https://devjuice.tistory.com/84>[프로그래머스/Java] [Kakao 블라인드 기출] 표 병합</a></br><a href=https://devjuice.tistory.com/83>[프로그래머스/Java] 77886. 110 옮기기</a></br><a href=https://devjuice.tistory.com/82>[백준/Java] 13549 숨바꼭질 3</a></br><a href=https://devjuice.tistory.com/81>[백준/Java] 24955 숫자 이어 붙이기</a></br>
